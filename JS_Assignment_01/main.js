@@ -25,5 +25,3 @@ document.write(text)
 document.write("<h2>About Me</h2>")
 //using document.write to print out the paragraph
 document.write("<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem odio atque nulla consequuntur. Assumenda aliquid eos nihil velit cumque animi voluptatem quaerat nemo beatae quae tempora asperiores reprehenderit, repellendus odio?</p>")
-//using document.write to print out the image
-document.write('<img src="https://t4.ftcdn.net/jpg/05/36/83/13/360_F_536831322_F1fTxf0SquOwRPpOnf9uSjcH3UHeKDKX.jpg" alt="Picture not found" width="600" height="300">');
